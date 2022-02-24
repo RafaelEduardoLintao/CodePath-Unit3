@@ -24,3 +24,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/OOKsjl7Nkf.gif' />
+
+### Notes
+My biggest challenge came from the launch screen. In the project it shows that there is a launch screen, however when I try to open the app it doesn't show.
