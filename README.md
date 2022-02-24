@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/AtUEI25.gif' />
+<img src='https://i.imgur.com/IVmbGqi.gif' />
